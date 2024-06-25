@@ -1,0 +1,1 @@
+{"name":"Categories","slug":"category","description":"","types":["post"],"hierarchical":true,"rest_base":"categories","_links":{"collection":[{"href":"https:\/\/ewlinternational.co.uk\/wp-json\/wp\/v2\/taxonomies"}],"wp:items":[{"href":"https:\/\/ewlinternational.co.uk\/wp-json\/wp\/v2\/categories"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
