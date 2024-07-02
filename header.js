@@ -80,7 +80,10 @@ let mainHeader = `
 			$('a').each(function(){
 				console.log($(this).prop('href'));
 				hrefName = window.location.href.toString();
-				hrefName = hrefName.substring( 0, hrefName.indexOf( ".html" ) );
+				if(hrefName.indexOf( ".html" )>-1){
+					hrefName = hrefName.substring( 0, hrefName.indexOf( ".html" ) );
+				};
+				
 				if ($(this).prop('href') == hrefName) {
 					$(this).addClass('current-menu-item'); 
 					$(this).parents('li').addClass('current-menu-item');
