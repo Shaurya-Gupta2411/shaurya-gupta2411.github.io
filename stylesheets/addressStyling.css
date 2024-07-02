@@ -1,0 +1,40 @@
+.address_blurb .et_pb_module_header, .address_blurb .et_pb_module_header a {
+    font-family: 'Amethysta', Georgia, "Times New Roman", serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 23px;
+    color: #ffffff !important;
+    text-align: center
+}
+
+.address_blurb p {
+    line-height: 1.3em
+}
+
+.address_blurb .et_pb_blurb_description {
+    text-align: center
+}
+
+.address_blurb {
+    font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;
+    font-size: 17px;
+    color: #a5a5a5 !important;
+    line-height: 1.3em
+}
+
+.email_text {
+    font-size: 20px
+}
+
+.email_text a {
+    font-family: 'Amethysta', Georgia, "Times New Roman", serif;
+    font-size: 23px
+}
+
+.privacy_text.et_pb_text {
+    color: #ffffff !important
+}
+
+.privacy_text {
+    font-size: 17px
+}
