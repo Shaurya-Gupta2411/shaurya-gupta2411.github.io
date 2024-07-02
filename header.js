@@ -3,7 +3,7 @@ let mainHeader = `
 				<div class="logo_container">
 					<span class="logo_helper"></span>
 					<a href="index">
-						<img src="wp-content/uploads/MRail/logo.png" alt="EWL International" id="logo"
+						<img src="/wp-content/uploads/MRail/logo.png" alt="MRail Group" id="logo"
 							data-height-percentage="85" />
 					</a>
 				</div>
