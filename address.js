@@ -110,7 +110,7 @@ let address = `
 
 													<div class="et_pb_text_inner">
 														<p style="text-align: center;"><a
-																href="privacy-policy.html"><span
+																href="/privacy-policy.html"><span
 																	style="color: #32a8cc !important;">Privacy
 																	Policy</span></a></p>
 													</div>
@@ -130,7 +130,7 @@ if (!document.getElementById(cssId))
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'stylesheets\\addressStyling.css';
+    link.href = '\\stylesheets\\addressStyling.css';
     link.media = 'all';
     head.appendChild(link);
 }

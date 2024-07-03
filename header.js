@@ -2,7 +2,7 @@ let mainHeader = `
 <div class="container clearfix et_menu_container">
 				<div class="logo_container">
 					<span class="logo_helper"></span>
-					<a href="index">
+					<a href="/index">
 						<img src="/wp-content/uploads/MRail/logo.png" alt="MRail Group" id="logo"
 							data-height-percentage="85" />
 					</a>
@@ -12,42 +12,42 @@ let mainHeader = `
 						<ul id="top-menu" class="nav">
 							<li id="menu-item-533"
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a
-									href="who-we-are">Who we are</a></li>
+									href="/who-we-are">Who we are</a></li>
 							<li id="menu-item-1086"
 								class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1086">
 								<a href="#">Services</a>
 								<ul class="sub-menu">
 									<li id="menu-item-532"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532">
-										<a href="project-programme-management">Project &#038; Programme
+										<a href="/project-programme-management">Project &#038; Programme
 											Management</a></li>
 									<li id="menu-item-531"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531">
-										<a href="railways">Railways</a></li>
+										<a href="/railways">Railways</a></li>
 									<li id="menu-item-530"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530">
-										<a href="highways-roads">Highways &#038; Roads</a></li>
+										<a href="/highways-roads">Highways &#038; Roads</a></li>
 									<li id="menu-item-529"
 										class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-459 menu-item-529">
-										<a href="airports" aria-current="page">Airports</a></li>
+										<a href="/airports" aria-current="page">Airports</a></li>
 									<li id="menu-item-528"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528">
-										<a href="transportation-advisory-services">Transportation Advisory
+										<a href="/transportation-advisory-services">Transportation Advisory
 											Services</a></li>
 									<li id="menu-item-527"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527">
-										<a href="property-development">Property Development</a></li>
+										<a href="/property-development">Property Development</a></li>
 									<li id="menu-item-526"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
-										<a href="expert-deployment-services">Expert Deployment Services</a></li>
+										<a href="/expert-deployment-services">Expert Deployment Services</a></li>
 								</ul>
 							</li>
 							<li id="menu-item-678"
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-678"><a
-									href="projects">Projects</a></li>
+									href="/projects">Projects</a></li>
 							<li id="menu-item-524"
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a
-									href="contact-us">Contact us</a></li>
+									href="/contact-us">Contact us</a></li>
 						</ul>
 					</nav>
 
