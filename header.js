@@ -2,7 +2,7 @@ let mainHeader = `
 <div class="container clearfix et_menu_container">
 				<div class="logo_container">
 					<span class="logo_helper"></span>
-					<a href="/index">
+					<a href="/">
 						<img src="/wp-content/uploads/MRail/logo.png" alt="MRail Group" id="logo"
 							data-height-percentage="85" />
 					</a>
