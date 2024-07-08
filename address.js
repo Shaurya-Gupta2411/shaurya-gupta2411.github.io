@@ -72,7 +72,7 @@ let address = `
 														<div class="et_pb_blurb_container">
 															<h4 class="et_pb_module_header"><span>Egypt</span></h4>
 															<div class="et_pb_blurb_description">
-																<p><br />TBC<br />
+																<p>Building 165, 122 p 3/4<br />5th Compound<br />Cairo, Egypt
 																</p>
 															</div>
 														</div>
