@@ -74,11 +74,8 @@ let mainHeader = `
             `;
 
             document.getElementById("main-header").innerHTML = mainHeader;
-
-			console.log(window.location.href);
 			
 			$('a').each(function(){
-				console.log($(this).prop('href'));
 				hrefName = window.location.href.toString();
 				if(hrefName.indexOf( ".html" )>-1){
 					hrefName = hrefName.substring( 0, hrefName.indexOf( ".html" ) );
