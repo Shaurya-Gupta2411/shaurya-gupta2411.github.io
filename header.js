@@ -42,9 +42,6 @@ let mainHeader = `
 										<a href="/expert-deployment-services">Expert Deployment Services</a></li>
 								</ul>
 							</li>
-							<li id="menu-item-678"
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-678"><a
-									href="/projects">Projects</a></li>
 							<li id="menu-item-524"
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a
 									href="/contact-us">Contact us</a></li>
